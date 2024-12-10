@@ -30,6 +30,7 @@
 | ![Nitish Sharma](images/nitish-542.jpg)  | Nitish Sharma   | [Nitish-542](students/nitish-542.markdown)|
 | ![Rohit Kumar](images/Coderohitk.jpg)  | Rohit Kumar   | [Coderohitk](students/Coderohitk.md)|
 | ![Janine Intrakul](images/janine-resized.png)  | Janine Intrakul   | [Janineint](students/janineint.markdown)|
+| ![Dilkhush Yadav](./images/dilkhush.jpg)| Dilkhush Yadav | [dilkhush727](https://github.com/dilkhush727/) |
 
 ### Faculty
 
